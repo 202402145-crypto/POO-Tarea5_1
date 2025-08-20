@@ -1,0 +1,7 @@
+C:\github\POO-Tarea5_1\Ejercicio de clases I\bin\Debug\Ejercicio de clases I.exe.config
+C:\github\POO-Tarea5_1\Ejercicio de clases I\bin\Debug\Ejercicio de clases I.exe
+C:\github\POO-Tarea5_1\Ejercicio de clases I\bin\Debug\Ejercicio de clases I.pdb
+C:\github\POO-Tarea5_1\Ejercicio de clases I\obj\Debug\Ejercicio de clases I.csproj.AssemblyReference.cache
+C:\github\POO-Tarea5_1\Ejercicio de clases I\obj\Debug\Ejercicio de clases I.csproj.CoreCompileInputs.cache
+C:\github\POO-Tarea5_1\Ejercicio de clases I\obj\Debug\Ejercicio de clases I.exe
+C:\github\POO-Tarea5_1\Ejercicio de clases I\obj\Debug\Ejercicio de clases I.pdb
